@@ -30,10 +30,10 @@ exports.sizeRequiredToEarn = 2;
 exports.expTimer = 10000;
 
 /* Used to rename plugins */
-exports.serverName = "";
+exports.serverName = "solgaleolunalayt";
 
 /* Used to enable poof plugin */
-exports.poof = false;
+exports.poof = true;
 
 
 /**
