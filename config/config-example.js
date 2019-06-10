@@ -15,7 +15,7 @@ exports.bindaddress = '0.0.0.0';
 exports.special = ['princesky'];
 
 /* serverIp used for custom avatars */
-exports.serverIp = "";
+exports.serverIp = "cyro-phoenix.psim.us";
 
 /* X amount of players needed in tournaments to earn rewards */
 exports.sizeRequiredToEarn = 2;
@@ -30,10 +30,10 @@ exports.sizeRequiredToEarn = 2;
 exports.expTimer = 10000;
 
 /* Used to rename plugins */
-exports.serverName = "";
+exports.serverName = "solgaleolunalayt";
 
 /* Used to enable poof plugin */
-exports.poof = false;
+exports.poof = true;
 
 
 /**
@@ -111,7 +111,7 @@ Main's SSL deploy script from Let's Encrypt looks like:
  *   in CIDR notation. You should usually leave this as `false` unless you
  *   know what you are doing.
  */
-exports.proxyip = false;
+exports.proxyip = true;
 
 /**
  * ofe - write heapdumps if sockets.js workers run out of memory.
@@ -290,7 +290,7 @@ exports.laddermodchat = false;
  *   Players will be unable to turn it off.
  *   This setting can also be turned on with the command /forcetimer.
  */
-exports.forcetimer = false;
+exports.forcetimer = true;
 
 /**
  * backdoor - allows Pokemon Showdown system operators to provide technical
