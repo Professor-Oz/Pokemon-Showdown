@@ -14,7 +14,7 @@
     "request-image-size": "^2.1.0",
     "probe-image-size": "^5.0.0",
     "sockjs": "0.3.19",
-    "sucrase": "^3.10.1"
+    "sucrase": "3.15.0"
   },
   "optionalDependencies": {
     "cloud-env": "^0.2.3",
